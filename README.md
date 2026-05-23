@@ -23,10 +23,9 @@ web dev, Python scripting, DSA, and trying to understand the OS layer by layer.
 
 | Repo | What it is |
 |------|-----------|
-| 🌐 [digital-portfolio](https://github.com/mr-heain/digital-portfolio) | Personal portfolio — built in Sem 2 |
+| 🌐 [digital-portfolio](https://github.com/mr-heain/portfolio) | Personal portfolio — built in Sem 2 · [View](https://mr-heain.github.io/portfolio) |
 | 📋 [event-registration](https://github.com/mr-heain/event-registration) | Event registration web app — HTML, CSS, JS · [Live demo](https://mr-heain.github.io/event-registration) |
 | 🧠 [dsa-practice](https://github.com/mr-heain/dsa-practice) | 15 DSA programs in Java with a menu-driven CLI launcher |
-| 🔬 [sandbox](https://github.com/mr-heain/sandbox) | Private — temp experiments and personal work |
 
 ---
 
