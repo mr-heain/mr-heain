@@ -35,11 +35,6 @@ web dev, Python scripting, DSA, and trying to understand the OS layer by layer.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mr-heain&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-heain&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-heain&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-heain&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
