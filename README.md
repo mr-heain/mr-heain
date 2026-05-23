@@ -1,38 +1,51 @@
-# Hi, I'm Hariharan 👋
+# Hey, I'm Hariharan 👋
 
-CS student | Linux power user | Building things from scratch
+> CS student · Linux daily driver · Learning how things actually work under the hood
 
-I'm learning how computers really work — from writing code
-to understanding the OS underneath it. Currently exploring
-web dev, Python scripting, and data structures.
+I'm a CS student who spends too much time in the terminal. Currently building my fundamentals —
+web dev, Python scripting, DSA, and trying to understand the OS layer by layer.
 
 ---
 
-## 🛠 Tech I'm learning
-- **Languages**: Python · JavaScript · Java · Bash
-- **Tools**: Git · Linux (daily driver) · VS Code
-- **Currently studying**: DSA · Web fundamentals
+## 🛠 Tech I'm working with
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## 📂 Projects
-- 🌐 [digital-portfolio](https://github.com/mr-heain/digital-portfolio) — my personal portfolio site
-- 💻 [web-experiments](https://github.com/mr-heain/web-experiments) — HTML/CSS/JS playground
+
+| Repo | What it is |
+|------|-----------|
+| 🌐 [digital-portfolio](https://github.com/mr-heain/digital-portfolio) | Personal portfolio — built in Sem 2 |
+| 📋 [event-registration](https://github.com/mr-heain/event-registration) | Event registration web app — HTML, CSS, JS · [Live demo](https://mr-heain.github.io/event-registration) |
+| 🧠 [dsa-practice](https://github.com/mr-heain/dsa-practice) | 15 DSA programs in Java with a menu-driven CLI launcher |
+| 🔬 [sandbox](https://github.com/mr-heain/sandbox) | Private — temp experiments and personal work |
 
 ---
 
+## 📊 GitHub Stats
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaravelat2005@gmail.com) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-heain&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mr-heain&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mr-heain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mr-heain&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mr-heain&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-heain&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mr-heain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaravelat2005@gmail.com)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mr-heain&color=0e75b6&style=flat)](https://github.com/mr-heain)
+
+---
 
 *Open to collaborating, learning, and building cool stuff.*
