@@ -40,7 +40,7 @@ fundamentals — DSA, bash scripting, web dev, and going deeper into how the OS 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-heain&show_icons=true&theme=dark&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mr-heain&theme=dark&hide_border=true)
 
 ---
