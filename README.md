@@ -1,9 +1,9 @@
 # Hey, I'm Hariharan 👋
 
-> CS student · Linux daily driver · Learning how things actually work under the hood
+> CS student ·Arch Linux daily driver · Learning how things actually work under the hood
 
 I'm a CS student who spends too much time in the terminal. Currently building my fundamentals —
-web dev, Python scripting, DSA, and trying to understand the OS layer by layer.
+web dev,learning bash scripting, DSA, and trying to understand the OS layer by layer.
 
 ---
 
