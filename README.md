@@ -1,9 +1,9 @@
 # Hey, I'm Hariharan 👋
 
-> CS student ·Arch Linux daily driver · Learning how things actually work under the hood
+> CS student · Arch Linux + KDE Plasma 6 · Learning how things actually work under the hood
 
-I'm a CS student who spends too much time in the terminal. Currently building my fundamentals —
-web dev,learning bash scripting, DSA, and trying to understand the OS layer by layer.
+I'm a CS student who lives in the terminal. Currently doing my internship while building
+fundamentals — DSA, bash scripting, web dev, and going deeper into how the OS works layer by layer.
 
 ---
 
@@ -15,7 +15,16 @@ web dev,learning bash scripting, DSA, and trying to understand the OS layer by l
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+---
+
+## 🔭 Currently
+
+- 🏢 Interning — building real-world stuff
+- 📖 Learning system design & OS internals
+- 🧠 Expanding DSA beyond college syllabus
+- 🐧 Daily driving Arch Linux + KDE Plasma 6
 
 ---
 
@@ -23,25 +32,22 @@ web dev,learning bash scripting, DSA, and trying to understand the OS layer by l
 
 | Repo | What it is |
 |------|-----------|
-| 🌐 [digital-portfolio](https://github.com/mr-heain/portfolio) | Personal portfolio — built in Sem 2 · [View](https://mr-heain.github.io/portfolio) |
-| 📋 [event-registration](https://github.com/mr-heain/event-registration) | Event registration web app — HTML, CSS, JS · [Live demo](https://mr-heain.github.io/event-registration) |
-| 🧠 [dsa-practice](https://github.com/mr-heain/dsa-practice) | 15 DSA programs in Java with a menu-driven CLI launcher |
+| 🌐 [portfolio](https://github.com/mr-heain/portfolio) | Personal portfolio site — HTML, CSS, JS · [Live](https://mr-heain.github.io/portfolio) |
+| 📋 [event-registration](https://github.com/mr-heain/event-registration) | Event registration web app — form handling, validation · [Live](https://mr-heain.github.io/event-registration) |
+| 🧠 [dsa-practice](https://github.com/mr-heain/dsa-practice) | 15 DSA programs in Java with a reflection-based CLI launcher |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mr-heain&cc=000&tc=fff&ic=fff&bc=000)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mr-heain&theme=dark&hide_border=false)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-heain&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mr-heain&theme=dark&hide_border=true)
 
 ---
 
 ## 🌐 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaravelat2005@gmail.com)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=mr-heain&color=0e75b6&style=flat)](https://github.com/mr-heain)
 
 ---
